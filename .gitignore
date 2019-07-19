@@ -1,0 +1,3 @@
+*.pth
+.idea/*
+!.idea/.gitkeep
